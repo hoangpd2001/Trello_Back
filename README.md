@@ -3,18 +3,7 @@
 Đây là phần backend của dự án quản lý công việc theo phong cách Trello, cung cấp các API cho frontend tương tác, bao gồm xác thực người dùng, xử lý thao tác với bảng (board), cột (column), thẻ công việc (card), kéo thả, phân quyền người dùng, tải ảnh lên cloud và nhiều chức năng khác.
 
 ---
-## Cài đặt dự án
-- Clone dự án: 
-    git clone https://github.com/letung234/API_Trelo.git
 
-- Truy cập vào thư mục dự án: 
-    cd API_Trelo
-
-- Cài đặt các package: 
-    npm install
-
-- Chạy dự án: 
-    npm run dev
 
 
 ## 🚀 Công nghệ sử dụng
