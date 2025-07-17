@@ -15,13 +15,7 @@
 
 - Chạy dự án: 
     npm run dev
-## Demo
-- Link: [Quản lý công việc Trello](https://trello-web-lake-ten.vercel.app/)
-- Link API: https://apitrelo-production.up.railway.app/
 
-## Thông tin đăng nhập
-- Tài khoản: tunglt072603@gmail.com
-- Mật khẩu: Letung1227
 
 ## 🚀 Công nghệ sử dụng
 - **Ngôn ngữ**: Node.js
@@ -43,6 +37,3 @@ Cảm ơn bạn đã ghé thăm và dành thời gian tham khảo dự án của
 Hy vọng dự án này sẽ mang lại giá trị cho bạn trong quá trình học tập và phát triển kỹ năng lập trình.
 Rất mong nhận được góp ý hoặc đóng góp từ bạn để dự án ngày càng hoàn thiện hơn! 💙
 
-📫 Liên hệ
-Bạn có thể kết nối với tôi qua:
-📧 Email: [tunglt072603@gmail.com]
